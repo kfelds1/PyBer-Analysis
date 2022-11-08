@@ -12,7 +12,7 @@ The purpose of this PyBer analysis was to further break down the number of drive
 
 As seen from the table below there is quite a difference in data between rural, suburban, and urban areas regarding ridesharing services. Urban regions have both the highest number of riders and drivers, and rural regions have the lowest number of riders and drivers, with suburban regions being in the middle. This makes sense, as urban areas are the most populated and they will be having more people in need for rides, driving up the demand for drivers. The opposite is true for the lesser populated areas, suburban and rural regions. Since there are more drivers in the urban areas, the driver will receive less for each ride because they are competing with other drivers. The opposite is true for the lesser populated regions. The data follows the simple law of supply and demand.
 
-Another key fact that is worth pointing out is that the urban city type is the only one out of the three that has more drivers than riders. Since there is much competition between drivers, there is inevitably higher fares for the drivers
+Another key fact that is worth pointing out is that the urban city type is the only one out of the three that has more drivers than riders. Since there is much competition between drivers, there is inevitably lower fares for the drivers.
 
 ![Screen Shot 2022-11-05 at 4 57 07 PM](https://user-images.githubusercontent.com/112633146/200141338-0b7e8a57-5daf-4a63-a339-90354b97cad5.png)
 
